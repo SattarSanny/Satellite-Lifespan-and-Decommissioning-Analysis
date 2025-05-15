@@ -50,6 +50,8 @@ This interactive web dashboard explores the lifespan, decommissioning status, an
 │   ├── real_neptune.png
 │   ├── real_planet.png
 │   ├── real_saturn.png
+│   ├── real_venus.png
+│   ├── sat2.png
 │   └── sat.png
 ├── 4304_infographic.ipynb # Jupyter notebook (design reference)
 ├── infographic.pdf        # Final infographic
